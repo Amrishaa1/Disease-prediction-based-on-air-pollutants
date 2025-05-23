@@ -1,4 +1,4 @@
-# Air Pollution Based Disease Prediction System
+# Air Pollutants Based Disease Prediction System
 
 This project is a desktop-based machine learning application that predicts diseases based on city-specific air pollutant data (PM2.5, PM10, NO₂, and SO₂). It uses a trained Random Forest model and provides a user-friendly GUI built with Tkinter.
 
@@ -45,7 +45,7 @@ To build a predictive system that:
 
 ## GUI Preview
 
-> ✨ A modern, styled Tkinter UI with a black theme and hover-enabled buttons.
+> A modern, styled Tkinter UI with a black theme and hover-enabled buttons.
 
 ![image](https://github.com/user-attachments/assets/a45ac52f-9e99-4019-9ea0-332762d3018b)
 
