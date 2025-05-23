@@ -1,10 +1,10 @@
-# 🌫️ Air Pollution Based Disease Prediction System
+# Air Pollution Based Disease Prediction System
 
 This project is a desktop-based machine learning application that predicts diseases based on city-specific air pollutant data (PM2.5, PM10, NO₂, and SO₂). It uses a trained Random Forest model and provides a user-friendly GUI built with Tkinter.
 
 ---
 
-## 🧠 Objective
+## Objective
 
 To build a predictive system that:
 - Analyzes pollution levels of Indian cities
@@ -13,7 +13,7 @@ To build a predictive system that:
 
 ---
 
-## 📊 Datasets Used
+## Datasets Used
 
 1. **Training Dataset (`pollution_data_10000.csv`)**
    - Contains historical pollution data with labeled diseases.
@@ -25,7 +25,7 @@ To build a predictive system that:
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. **Model Training**
    - A Random Forest Classifier is trained using `pollution_data_10000.csv`.
@@ -43,7 +43,7 @@ To build a predictive system that:
 
 ---
 
-## 🖼️ GUI Preview
+## GUI Preview
 
 > ✨ A modern, styled Tkinter UI with a black theme and hover-enabled buttons.
 
@@ -52,7 +52,7 @@ To build a predictive system that:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Tkinter (for GUI)
@@ -61,7 +61,7 @@ To build a predictive system that:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the Repository**
    ```bash
@@ -78,7 +78,7 @@ To build a predictive system that:
 
 ---
 
-## 📌 Features
+## Features
 - City-wise disease prediction
 - Trained ML model using real-world pollution data
 - Interactive desktop GUI
